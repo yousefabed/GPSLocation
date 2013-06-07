@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ist380.abedy/!svn/ver/19/trunk/android.samplecode/GPSLocation
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ist380.abedy/!svn/ver/20/trunk/android.samplecode/GPSLocation/AndroidManifest.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ist380.abedy/!svn/ver/20/trunk/android.samplecode/GPSLocation/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ist380.abedy/!svn/ver/20/trunk/android.samplecode/GPSLocation/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ist380.abedy/!svn/ver/20/trunk/android.samplecode/GPSLocation/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ist380.abedy/!svn/ver/20/trunk/android.samplecode/GPSLocation/.classpath
+END

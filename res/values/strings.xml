@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GPSLocationActivity!</string>
+    <string name="app_name">GPSLocation</string>
+    <string name="info">Click on the button to get your location.</string>
+    <string name="gpsbtn">Get GPS Location</string>
+    <string name="loading">finding your location……</string>
+
+</resources>
